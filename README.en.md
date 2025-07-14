@@ -27,7 +27,7 @@ NKUST SEE Platfrom is a platform designed for professors at our university to sh
 - Generate rankings based on view counts, with filters for overall, last 7 days, and last 30 days.
 - Provide an embedded video playback interface.
 
-## Screenshot
+### Screenshot
 ![screencapture-nkustsee-website-login-2024-12-11-08_33_33](https://github.com/user-attachments/assets/8a5aeade-f59e-4647-a0e7-9947c7050b71)
 ![image (4)](https://github.com/user-attachments/assets/bbd24dbb-e78a-4f01-8ce8-c77334cfcf47)
 ![image (5)](https://github.com/user-attachments/assets/6013adc8-d4c2-4c4c-a74b-43ab6d0bf37d)
